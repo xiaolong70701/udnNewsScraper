@@ -13,7 +13,7 @@
 - Supports user authentication with manual login mode.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Selenium WebDriver for Microsoft Edge
 - tqdm (for progress bars)
 - Pandas (for storing and saving data)
